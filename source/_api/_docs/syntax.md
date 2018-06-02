@@ -204,6 +204,7 @@ __regularjs 同时支持一些高阶用法，例如双向过滤器。查看 [[Gu
 regularjs support a special Type —— range. it is a shortcut to create Array.
 %
 regularjs 支持一种常见的表达式元素: Range. 它是一种数组的简写形式.
+Range的主要应用场景之一, 是利用list rule执行循环(而非遍历). 如果你正需要它,应该知道它怎么用:)
 }
 
 
